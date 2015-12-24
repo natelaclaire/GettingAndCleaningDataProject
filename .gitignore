@@ -1,0 +1,6 @@
+activity_labels.txt
+features_info.txt
+features.txt
+README.txt
+test/*
+train/*
