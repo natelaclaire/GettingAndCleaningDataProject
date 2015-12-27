@@ -36,6 +36,8 @@ Variables with names containing "Mean" are estimated mean values of the signals 
 
 Variable names ending in X, Y, or Z denote 3-axial signals in the X, Y and Z directions, respectively.
 
+The units used for the accelerations (total and body) are 'g's (gravity of earth -> 9.80665 m/seg2). The gyroscope units are rad/seg.
+
 The numeric variable names are as follows:
 
 * tBodyAccelerationMeanX
